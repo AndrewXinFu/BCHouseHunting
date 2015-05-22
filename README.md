@@ -17,11 +17,11 @@
 
 [Burnaby 10年内House](http://www.rew.ca/properties/search/323232459/sort/price/asc/page/1)
 
-[Coquitlam 10年内House](http://www.rew.ca/properties/search/323231988/sort/price/asc/page/1)
+[New Westminster 10年内House](http://www.rew.ca/properties/search/323232542/sort/price/asc/page/1)
 
-[Coquitlam 10年内House](http://www.rew.ca/properties/search/323231988/sort/price/asc/page/1)
+[Port Moody 10年内House](http://www.rew.ca/properties/search/323232650/sort/price/asc/page/1)
 
-[Coquitlam 10年内House](http://www.rew.ca/properties/search/323231988/sort/price/asc/page/1)
+[Port Coquitlam 10年内House](http://www.rew.ca/properties/search/323232696/sort/price/asc/page/1)
 
-[Coquitlam 10年内House](http://www.rew.ca/properties/search/323231988/sort/price/asc/page/1)
+[Vancouver 10年内House](http://www.rew.ca/properties/search/323232760/sort/price/asc/page/1)
 
