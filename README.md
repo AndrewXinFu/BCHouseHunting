@@ -35,6 +35,8 @@
 
 721 Como Lake Avenue 95w
 
+2910 Paul Lake Court, Coquitlam 95w
+
 ### North Coquitlam
 2662 EAGLERIDGE DR, Coquitlam 70w
 
