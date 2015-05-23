@@ -48,6 +48,8 @@
 
 2611 PANORAMA DR, Coquitlam 85w
 
+2617 Panorama Drive, Coquitlam 115w
+
 3338 VIEWMOUNT DR, Port Moody 87w
 
 2048 PARKWAY BV, Coquitlam 87w
