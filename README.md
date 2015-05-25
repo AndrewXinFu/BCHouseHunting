@@ -26,6 +26,9 @@
 [Vancouver 10年内House](http://www.rew.ca/properties/search/323232760/sort/price/asc/page/1)
 
 ## 要看的房子
+### Richmond
+3399 Regina Avenue 100w
+
 ### West Coquitlam
 720 Roderick Avenue 110w
 
