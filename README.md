@@ -31,6 +31,8 @@
 ### Richmond
 ### Coquitlam
 [2902 Paul Lake Court, Coquitlam](http://realtor.ca/Residential/Single-Family/15763462/2902-PAUL-LAKE-CT-Coquitlam-British-Columbia-V3C6A3)
+
+[856 LIGHTHOUSE CT, Coquitlam](http://realtor.ca/Residential/Single-Family/15705912/856-LIGHTHOUSE-CT-Coquitlam-British-Columbia-V3J7N6)
 ### North Coquitlam
 [2571 SAPPHIRE PL, Coquitlam](http://realtor.ca/Residential/Single-Family/15744934/2571-SAPPHIRE-PL-Coquitlam-British-Columbia-V3E2Z1)
 
@@ -38,5 +40,12 @@
 
 [2128 TURNBERRY LN, Coquitlam](http://realtor.ca/Residential/Single-Family/15763374/2128-TURNBERRY-LN-Coquitlam-British-Columbia-V3E3N3)
 
+[856 LIGHTHOUSE CT, Coquitlam](http://realtor.ca/Residential/Single-Family/15705912/856-LIGHTHOUSE-CT-Coquitlam-British-Columbia-V3J7N6)
+
+[1363 DEERIDGE LN, Coquitlam](http://realtor.ca/Residential/Single-Family/15688432/1363-DEERIDGE-LN-Coquitlam-British-Columbia-V3E1Y7)
+
+[2562 FUCHSIA PL, Coquitlam](http://realtor.ca/Residential/Single-Family/15699541/2562-FUCHSIA-PL-Coquitlam-British-Columbia-V3E2M7)
+
 [1287 HOLLYBROOK ST, Coquitlam](http://realtor.ca/Residential/Single-Family/15332102/1287-HOLLYBROOK-ST-Coquitlam-British-Columbia-V3B7M9)
 
+[1478 AVONDALE ST, Coquitlam](http://realtor.ca/Residential/Single-Family/15725834/1478-AVONDALE-ST-Coquitlam-British-Columbia-V3E0B2)
