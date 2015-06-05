@@ -26,6 +26,9 @@
 [Vancouver 10年内House](http://www.rew.ca/properties/search/323232760/sort/price/asc/page/1)
 
 ## 要看的房子
+### Burnaby
+[5315 MONARCH ST, Burnaby](http://realtor.ca/Residential/Single-Family/15744967/5315-MONARCH-ST-Burnaby-British-Columbia-V5G1Z9)
+
 ### New Westminster
 [806 FOURTH ST, New Westminster, British Columbia   V3L2W6](http://realtor.ca/propertyDetails.aspx?PropertyId=15457511)
 ### Richmond
