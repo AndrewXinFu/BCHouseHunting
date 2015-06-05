@@ -29,5 +29,6 @@
 ### New Westminster
 [806 FOURTH ST, New Westminster, British Columbia   V3L2W6](http://realtor.ca/propertyDetails.aspx?PropertyId=15457511)
 ### Richmond
-### West Coquitlam
+### Coquitlam
+[2902 Paul Lake Court, Coquitlam](http://realtor.ca/Residential/Single-Family/15763462/2902-PAUL-LAKE-CT-Coquitlam-British-Columbia-V3C6A3)
 ### North Coquitlam
